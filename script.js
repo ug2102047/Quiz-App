@@ -8,7 +8,7 @@ const questions = [
             { text: "Sylhet", isCorrect: false }
         ]
     },
-    {
+    { 
         question: "What is the largest planet in our solar system?",
         options: [
             { text: "Earth", isCorrect: false },    
